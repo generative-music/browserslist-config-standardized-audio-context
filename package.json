@@ -2,7 +2,7 @@
   "name": "@generative-music/browserslist-config-standardized-audio-context",
   "version": "25.0.0",
   "description": "A Browserslist configuration which reflects standardized-audio-context support",
-  "main": "./index.js",
+  "main": "index.js",
   "type": "commonjs",
   "exports": "./index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "preversion": "npm test",
     "postversion": "git push && git push --tags"
   },
+  "files": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/generative-music/browserslist-config-standardized-audio-context.git"
