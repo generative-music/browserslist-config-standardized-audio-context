@@ -1,0 +1,25 @@
+{
+  "name": "@generative-music/browserslist-config-standardized-audio-context",
+  "version": "0.0.0",
+  "description": "A Browserslist configuration which reflects standardized-audio-context support",
+  "main": "./index.js",
+  "type": "commonjs",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/generative-music/browserslist-config-standardized-audio-context.git"
+  },
+  "author": "Alex Bainter <alex@alexbainter.com> (https://alexbainter.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/generative-music/browserslist-config-standardized-audio-context/issues"
+  },
+  "homepage": "https://github.com/generative-music/browserslist-config-standardized-audio-context#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
+
