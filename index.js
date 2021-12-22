@@ -4,5 +4,5 @@ module.exports = [
   'firefox >= 70',
   'opera >= 68',
   'safari >= 12.1',
-  'ios >= 14',
+  'ios >= 12.1',
 ];

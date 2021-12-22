@@ -20,6 +20,6 @@
   "homepage": "https://github.com/generative-music/browserslist-config-standardized-audio-context#readme",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "devDependencies": {}
 }
-
